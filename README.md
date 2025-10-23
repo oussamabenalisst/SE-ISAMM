@@ -1,5 +1,7 @@
 # Questions et Réponses (Q&R) — Introduction aux Systèmes d'Exploitation (S.E.)
 
+![img](./autre/chapter1.png)
+
 ## Section 1 — Structure fondamentale du système informatique
 
 | Question                                                                                      |                                                                               Réponse | Source(s) |
