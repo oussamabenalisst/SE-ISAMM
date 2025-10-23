@@ -1,7 +1,5 @@
 # Questions et Réponses (Q&R) — Introduction aux Systèmes d'Exploitation (S.E.)
 
-Ce document rassemble des questions et réponses extraites des supports d'introduction aux systèmes d'exploitation.
-
 ## Section 1 — Structure fondamentale du système informatique
 
 | Question                                                                                      |                                                                               Réponse | Source(s) |
@@ -26,5 +24,3 @@ Ce document rassemble des questions et réponses extraites des supports d'introd
 | Q8 — Quel exemple d'ordinateur historique est cité dans les sources ?                |                L'ordinateur historique mentionné est ENIAC. |           |
 
 ---
-
-Si vous souhaitez ajouter les sources, des références bibliographiques ou reformuler les questions en exercices, dites-moi où insérer ces informations et je mettrai à jour le fichier.
